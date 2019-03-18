@@ -1,0 +1,96 @@
+body {
+    background-color: darkgrey;
+}
+
+.header-1 {
+    background-color: gainsboro;
+    padding: 1.3em;
+    text-align: center;
+    font-size: 18px;
+    color: currentColor;
+    width: 80%;
+    margin-left: 6em;
+    margin-top: 1em;
+}
+
+.nav-1 {
+    background-color: gainsboro;
+    padding: 1.3em;
+    width: 80%;
+    margin-left: 7.7em;
+    margin-top: 1em;
+    text-align: center;
+}
+
+.section-1 {
+    background-color: gainsboro;
+    padding: 1.3em;
+    margin-left: 7.7em;
+    width: 45%;
+    height: 19em;
+    margin-top: 1em;
+    text-align: center;
+}
+
+.article-1 {
+    background-color: grey;
+    padding: 1.3em;
+    text-align: center;
+    margin-top: -14.3em;
+    margin-left: 8.5em;
+    width: 43%;
+    position: relative;
+    height: 13em;
+    color: white;
+}
+
+.text-1 h4 {
+    margin-top: -0.5em;
+    margin-left: 0.3em;
+}
+
+.text-1 {
+    background-color: white;
+    padding: 1.3em;
+    position: relative;
+    margin-left: 10em;
+    margin-top: -8em;
+    width: 39%;
+    height: 2em;
+    text-align: center;
+}
+
+.p-1 h4 {
+    margin-top: -0.5em;
+    margin-left: 0.3em;
+}
+
+.p-1 {
+    margin-left: 10em;
+    position: relative;
+    background-color: white;
+    padding: 1.3em;
+    height: 2em;
+    text-align: center;
+    width: 39%;
+    margin-top: 1em;
+}
+
+.aside-1 {
+    margin-left: 46em;
+    background-color: gainsboro;
+    padding: 1.3em;
+    text-align: center;
+    width: 33%;
+    margin-top: -16em;
+    height: 19.1em;
+}
+
+.footer-1 {
+    margin-left: 7.7em;
+    background-color: gainsboro;
+    padding: 1.3em;
+    width: 80.1%;
+    margin-top: 1.5em;
+    text-align: center;
+}
